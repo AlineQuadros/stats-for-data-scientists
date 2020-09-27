@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Much more than a desert: A trip into the Sahara"
+title:  "Power tests and effects sizes"
 author: john
-categories: [ Travel ]
+categories: [ Statistics, Python, power tests ]
 image: assets/images/16.jpg
 ---
 
